@@ -1,3 +1,4 @@
+# Introduction
 RADO-SCS model is the first open source spinal cord model for simulating conventional/High Frequency Spinal Cord Stimulation, Dorsal Root Ganglion (DRG) Stimulation, and transpinal Direct Current Stimulation (tsDCS). The RADO-SCS model emerged over years. In our very first version of the SCS model, RADO-SCS 1.0, cylindrical shapes were used to represent the spinal tissues which later got upgraded with an extensive research and modeling works to RADO-SCS 2.0. This version included detailed spinal tissues anatomy but the spinal roots, rootlets, sympathetic chain, DRG, and  vasculatures were not included in that model. 
 
 Freely available online, the RADO-SCS will be updated continuously with version control. 
